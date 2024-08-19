@@ -146,13 +146,13 @@ with col3:
 with col4:
 
 
-    st.image("images/image1.jpg",  width=200)
+    st.image("image1.jpg",  width=200)
     
 
 with col5:
     pass
 
-    st.image("images/image2.jpg", width=200)
+    st.image("image2.jpg", width=200)
 st.markdown("""
             <h1 style="font-size: 20px; font-family: 'Arial, sans-serif'; text-align: right; color:#ADEFD1FF; margin-right: 150px">
          LAREY JAHN BAUGBOG-LESTER POLENIO
