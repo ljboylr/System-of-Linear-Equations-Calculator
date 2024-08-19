@@ -144,15 +144,17 @@ with col3:
                                         </h1>
                                     """, unsafe_allow_html=True)
 with col4:
-    st.image(
-         "https://scontent.fceb1-3.fna.fbcdn.net/v/t39.30808-6/381223621_2223813074482565_369223720773968397_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHvPgWad5FO1Q5128xkqHLiFo1Q9xR0HnsWjVD3FHQee6UVLjofkpwbXM5SmX8BsnXB8N4iGK0fVMDHMwftMAPt&_nc_ohc=n73D99ZkR2MQ7kNvgEwk8cV&_nc_ht=scontent.fceb1-3.fna&oh=00_AYAA6BEAXvotmMFGyVA5Mo0M7mH_q522Yy160ZxnM7t55A&oe=66C69829",  width=200)
+
+
+    st.image("images/image1.jpg",  width=200)
+    
 
 with col5:
-    st.image(
-        "https://scontent.xx.fbcdn.net/v/t1.15752-9/440263242_755929583389906_4937358523291292531_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeFLlTN4HnZ4wpfgmL8RS2HsuNa72zUNHju41rvbNQ0eO8zLeQE8T_f63BxGNDacCrhauZBZo7AE7ryfrhQU-ksD&_nc_ohc=sWBDSokRf7oQ7kNvgF30CyY&_nc_ht=scontent.xx&oh=03_Q7cD1QFQIjn57yACaUe6q1G-ZjoOPru_F7zGnm3VYdpZQ8cpuQ&oe=66E6D7FA", width=200)
+    pass
 
+    st.image("images/image2.jpg", width=200)
 st.markdown("""
-            <h1 style="font-size: 20px; font-family: 'Arial, sans-serif'; text-align: right; color:#ADEFD1FF ">
-             LAREY JAHN BAUGBOG- LESTER POLENIO
+            <h1 style="font-size: 20px; font-family: 'Arial, sans-serif'; text-align: right; color:#ADEFD1FF; margin-right: 150px">
+         LAREY JAHN BAUGBOG-LESTER POLENIO
              </h1>
          """, unsafe_allow_html=True)
