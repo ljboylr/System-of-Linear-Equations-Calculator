@@ -154,7 +154,7 @@ with col5:
 
     st.image("image2.jpg", width=200)
 st.markdown("""
-            <h1 style="font-size: 20px; font-family: 'Arial, sans-serif'; text-align: right; color:#ADEFD1FF; margin-right: 150px">
+            <h1 style="font-size: 20px; font-family: 'Arial, sans-serif'; text-align: right; color:#ADEFD1FF; margin-right: 100px">
          LAREY JAHN BAUGBOG-LESTER POLENIO
              </h1>
          """, unsafe_allow_html=True)
